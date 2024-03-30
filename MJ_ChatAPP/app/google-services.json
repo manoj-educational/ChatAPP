@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "62103525378",
+    "project_id": "mj-chatapp",
+    "storage_bucket": "mj-chatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62103525378:android:1583d1665e57173dccaf1b",
+        "android_client_info": {
+          "package_name": "com.av.mjchatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2zm8unnhHLoeNYIRQ3a4odDmkjowTKFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
